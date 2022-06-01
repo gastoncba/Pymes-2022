@@ -15,7 +15,7 @@ import { FormGroup, FormControl, Validators } from '@angular/forms';
 })
 export class ArticulosComponent implements OnInit {
 
-  //FormGroup y FormControl son objetos que nos permitiran
+  //FormGroup y FormControl son objetos que nos van a permitir
   //enlazar el código a los formularios html “FormBusqueda” y “FormRegistro”
 
   FormBusqueda = new FormGroup({
